@@ -3,30 +3,30 @@
     "id": 1,
     "name": "Parking 1",
     "type": "AIRPORT",
-    "city": "ROISSY EN FRANCE"
+    "city": "Roissy"
   },
   {
     "id": 2,
     "name": "Parking 2",
     "type": "AIRPORT",
-    "city": "BEAUVAIS"
+    "city": "Beauvais"
   },
   {
     "id": 3,
     "name": "Parking 3",
     "type": "AIRPORT",
-    "city": "ORLY"
+    "city": "Orly"
   },
   {
     "id": 4,
     "name": "Parking 4",
     "type": "TRAIN_STATION",
-    "city": "NICE"
+    "city": "Nice"
   },
   {
     "id": 5,
     "name": "Parking 5",
     "type": "BUS_STATION",
-    "city": "LILLE"
+    "city": "Lille"
   }
 ]
