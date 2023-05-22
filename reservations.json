@@ -1,55 +1,67 @@
 [
   {
-      "id":1,      
-      "parkingId": 1,    
+      "id":1,
+      "parking":"Parking 1",
+      "parkingId": 1,
+      "city": "Roissy",
       "clientName": "Thomas Martin",
       "vehicle": "car",
       "licensePlate": "ED432EF",
-      "checkin":"2022-08-21T06:00:00Z",
-      "checkout":"2022-08-27T06:00:00Z"
+      "checkin":"2020-08-21T06:00:00Z",
+      "checkout":"2020-08-27T06:00:00Z"
   },
   {
-      "id":2,      
-      "parkingId": 1,      
+      "id":2,
+      "parking":"Parking 1",
+      "parkingId": 1,
+      "city": "Roissy",
       "clientName": "Frédéric Bertholet",
-      "vehicle": "none",      
-      "checkin":"2022-08-20T06:00:00Z",
-      "checkout":"2022-08-27T06:00:00Z"
+      "vehicle": "car",
+      "licensePlate": "AB213CD",
+      "checkin":"2020-08-20T06:00:00Z",
+      "checkout":"2020-08-27T06:00:00Z"
   },
   {
-      "id":3,      
-      "parkingId": 1,      
+      "id":3,
+      "parking":"Parking 1",
+      "parkingId": 1,
+      "city": "Roissy",
       "clientName": "Anatole Basthoz",
       "vehicle": "car",
-      "licensePlate": "EB-123-KJ",
-      "checkin":"2022-08-01T06:00:00Z",
-      "checkout":"2022-08-17T06:00:00Z"
+      "licensePlate": "EB123KJ",
+      "checkin":"2020-08-01T06:00:00Z",
+      "checkout":"2020-08-17T06:00:00Z"
   }
   ,
   {
-      "id":4,      
-      "parkingId": 2,      
+      "id":4,
+      "parking":"Parking 2",
+      "parkingId": 2,
+      "city": "Beauvais",
       "clientName": "Caroline Wattremez",
-      "vehicle": "car",
-      "licensePlate": "BD-198-DD",
-      "checkin":"2022-08-21T06:00:00Z",
-      "checkout":"2022-08-27T06:00:00Z"
+      "vehicle": "none",      
+      "checkin":"2020-08-21T06:00:00Z",
+      "checkout":"2020-08-27T06:00:00Z"
   },
   {
       "id":5,
-      "parkingId": 3,      
+      "parking":"Parking 3",
+      "parkingId": 3,
+      "city": "Orly",
       "clientName": "Thomas Martin",
       "vehicle": "none",      
-      "checkin":"2022-08-28T06:00:00Z",
-      "checkout":"2022-08-29T06:00:00Z"
+      "checkin":"2020-08-28T06:00:00Z",
+      "checkout":"2020-08-29T06:00:00Z"
   },
   {
-      "id":6,      
-      "parkingId": 4,      
+      "id":6,
+      "parking":"Parking 4",
+      "parkingId": 4,
+      "city": "Nice",
       "clientName": "Elena Richardson",
       "vehicle": "car",
-      "licensePlate": "AB-233-LK",
-      "checkin":"2022-08-12T06:00:00Z",
-      "checkout":"2022-08-17T06:00:00Z"
+      "licensePlate": "KJ233OE",
+      "checkin":"2020-08-12T06:00:00Z",
+      "checkout":"2020-08-17T06:00:00Z"
   }
 ]
